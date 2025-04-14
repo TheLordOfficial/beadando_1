@@ -1,2 +1,2 @@
-# beadando_1
-asugdflasgvfa
+# webprog_beadando
+Webprog elméleti beadandó
